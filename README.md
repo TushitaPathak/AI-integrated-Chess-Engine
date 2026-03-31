@@ -103,7 +103,4 @@ chess_engine/
 - Flask framework for web interface
 - Chess piece icons via Unicode chess symbols
 
-## License
-
-This project is created for educational purposes as part of academic coursework.
 
