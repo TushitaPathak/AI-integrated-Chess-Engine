@@ -37,10 +37,7 @@ The evaluation considers:
 
 ### Setup
 ```bash
-# Clone or download the repository
-# Navigate to the project directory
 
-# Install required packages
 pip install flask python-chess
 ```
 
