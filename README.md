@@ -46,7 +46,7 @@ pip install flask python-chess
 ### Web Interface (Default)
 ```bash
 python chess_engine.py
-# Open http://localhost:5000 in your browser
+ Open http://localhost:5000 in your browser
 ```
 
 ### Command-Line Interface
